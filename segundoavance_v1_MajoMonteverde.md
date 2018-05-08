@@ -420,7 +420,7 @@ Mayor problems found in the sequences after demultiplexing were:
 3. Kmer content: any individually overrepresented sequences, even if not present at a high enough threshold to trigger the overrepresented sequences module will cause the Kmers from those sequences to be highly enriched in this module. 
 4. Overrepresented sequences: this module will issue an error if any sequence is found to represent more than 1% of the total.
 
-![alt text] (https://github.com/MajoMonteverde/ProyectoFinalBioinf2018-II/blob/master/1_grafica_calidad.png)
+![img] (https://github.com/MajoMonteverde/ProyectoFinalBioinf2018-II/blob/master/1_grafica_calidad.png)
 
 Based on this I decided to remove duplicated sequences for each individual.
 
