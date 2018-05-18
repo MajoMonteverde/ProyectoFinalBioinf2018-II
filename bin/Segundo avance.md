@@ -413,7 +413,7 @@ loaded via a namespace (and not attached):
 
 ```
 
-# ![img](https://github.com/MajoMonteverde/ProyectoFinalBioinf2018-II/blob/master/1_grafica_calidad.png)
+# ![img](https://github.com/MajoMonteverde/ProyectoFinalBioinf2018-II/blob/master/figures/1_grafica_calidad.png)
 
 Mayor problems found in the sequences after demultiplexing were:
 1. Per tile sequence quality: reasons for seeing warnings or errors on this plot could be transient problems such as bubbles going through the flowcell, or they could be more permanent problems such as smudges on the flowcell or debris inside the flowcell lane.
