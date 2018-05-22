@@ -3,7 +3,7 @@
 
 ## by Majo Monteverde-Suárez
 
-### Segundo avance de proyecto final del curso de Bioinfiormática 2018-2
+### Tercer avance de proyecto final del curso de Bioinfiormática 2018-2
 
 Mis avances hasta el momento son:
 1. Terminé con la limpieza de datos: corrí fastqc.
