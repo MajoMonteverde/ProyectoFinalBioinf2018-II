@@ -1,13 +1,14 @@
 # ProyectoFinalBioinf2018-II
 
-Proyecto final de RADseq para la clase de Bioinformática impartida por Alicia Mastretta
+RADseq final proyect for Bioinformatics class Alicia Mastretta.
 
-Dentro de este repositorio se encuentran los análisis realizados para datos de RADseq oiginal generados para 66 individuos del complejo Streptanthoide.
 
-En la carpeta bin, se encuentran los archivos de los avances a lo largo del semestre (Primer avance.md, Segundo avance.md y Tercer avance.md). Dentro de esta carpeta se encuentra una subcarpeta llamada Rscripts que contiene los scripts de R utilizados en estos análisis.
+In this repositiory you will find the analyses for RADseq data generated for 66 individuals of the Streptanthoide Complex. It is organized in the following three folders:
 
-El archivo Tercer avance.md contiene el pipline de ipyRAD,resultados y parámetros escogidos, para llevar a acabo el análisis en dicho software.
+bin - contains the progress files (Primer avance.md, Segundo avance.md y Tercer avance.md). Inside this folder, there is also a subfolder named RScripts which contains all the Rscripts used during the analyses.
 
-La carpeta data contiene algunos de los archivos utilizados en el análisis
+File "Tercer avance.md" contains the ipyRAD pipeline and its results and parameters.
 
-La carpeta figures contiene las figuras generadas en el proyecto.
+data - will contain some of the data used in the analysis and the README that specifies where to download the complete data
+
+figures - contains the final figures produced during the analyses.
