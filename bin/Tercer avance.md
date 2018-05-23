@@ -10,7 +10,7 @@ Mis avances hasta el momento son:
 2. He corrido hasta el paso 5 de 7 del tutorial de ipyrad utilizando mis datos genéticos.
 3. He generado algunas gráficas en R para resumir algunos de los parámetros/resultados de la limpieza de datos
 4. Empecé a organizar el repositorio. Hasta el momento tengo tres carpetas: bin donde he puesto los md de los avances y los actualicé en la lista de entrega. También dentro de esta carpeta hice una llamada scripts donde puse mis scripts de R. Las otras dos carpetas son data, aunque todavía no subo archivos ahí y figures donde puse las dos gráficas que he hecho hasta el momento.
-5. [Liga al README] (https://github.com/MajoMonteverde/ProyectoFinalBioinf2018-II/blob/master/README.md)
+5. [Liga al README](https://github.com/MajoMonteverde/ProyectoFinalBioinf2018-II/blob/master/README.md)
 
 
 ### Problemas a los que me he enfrentado
